@@ -27,7 +27,7 @@ Bu proje, California'daki ev fiyatlarını inceleyen bir veri analizi ve tahmin 
 1. Projeyi klonlayın:
 
     ```bash
-    git clone https://github.com/yourusername/California-Housing-Analysis.git
+    git clone https://github.com/salimunlu/California_Housing_Prediction_Model.git
     ```
 
 2. Gerekli kütüphaneleri yükleyin:
